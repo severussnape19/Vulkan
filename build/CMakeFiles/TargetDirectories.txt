@@ -1,3 +1,0 @@
-/home/lak_02/ws/vulk/build/CMakeFiles/vulk.dir
-/home/lak_02/ws/vulk/build/CMakeFiles/edit_cache.dir
-/home/lak_02/ws/vulk/build/CMakeFiles/rebuild_cache.dir
